@@ -11,3 +11,6 @@ PyCharm IDE
 
 API for weather data:
 Open Weather Maps API
+
+Creator: Chinmay Bhosale
+A project for SRH Hochschule Berlin
